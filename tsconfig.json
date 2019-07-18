@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "sourceMap": false,
+    "allowJs": true,
+    "moduleResolution": "node",
+    "target": "ES5",
+    "jsx": "react",
+    "baseUrl": ".",
+    "skipLibCheck": true,
+    "experimentalDecorators": true,
+    "lib": [
+        "dom",
+        "es2015",
+        "es2015.promise"
+    ]
+  },
+  "include": ["src/**/*"],
+  "exclude": [
+    "node_modules"
+  ]
+}
