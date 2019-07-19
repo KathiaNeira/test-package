@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="051" transform="translate(0.000000, 3.000000)" fill="#D3D3D3" fill-rule="nonzero">
+            <path d="M93.77,5.5 L81.23,5.5 L81.23,0 L75,0 L75,5.5 L25,5.5 L25,0 L18.78,0 L18.78,5.5 L6.22,5.5 C3.33,5.5 0,8.15 0,11 L0,88.62 C0.0438728781,91.4856921 2.39410733,93.7778409 5.26,93.75 L94.74,93.75 C97.6058927,93.7778409 99.9561271,91.4856921 100,88.62 L100,11 C100,8.14 96.66,5.5 93.77,5.5 Z M90.62,84.21 C90.5876816,84.8223181 90.072931,85.2971312 89.46,85.28 L10.54,85.28 C9.92706898,85.2971312 9.41231836,84.8223181 9.38,84.21 L9.38,34.07 L90.62,34.07 L90.62,84.21 Z M90.62,26.41 L9.38,26.41 L9.38,14.66 C9.40706167,14.0437232 9.92336284,13.563029 10.54,13.58 L89.46,13.58 C90.0766372,13.563029 90.5929383,14.0437232 90.62,14.66 L90.62,26.41 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

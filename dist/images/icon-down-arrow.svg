@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="476px" height="256px" viewBox="0 0 476 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>FLECHA ABAJO</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-441.000000, -56.000000)" fill="#D3D3D3" fill-rule="nonzero">
+            <path d="M911.849111,60.9468599 C905.292465,54.3510467 894.637916,54.3510467 888.08127,60.9468599 L679.088193,271.600644 L469.685324,60.9468599 C463.128679,54.3510467 452.47413,54.3510467 445.917484,60.9468599 C439.360839,67.5426731 439.360839,78.2608696 445.917484,84.8566828 L666.794482,307.05314 C670.072805,310.351047 674.170708,312 678.678402,312 C682.776306,312 687.284,310.351047 690.562322,307.05314 L911.43932,84.8566828 C918.405756,78.2608696 918.405756,67.5426731 911.849111,60.9468599 Z" id="FLECHA-ABAJO"></path>
+        </g>
+    </g>
+</svg>

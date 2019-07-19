@@ -54,7 +54,7 @@ export class DatePicker extends React.Component<Props> {
                         >
                         <Day 
                           selected={this.props.selected === day.dayMonth}
-                          color={day.anotherMonthDay ? "#c2c2c2" : "c4c4c4"}
+                          color={day.anotherMonthDay ? '#D3D3D3' : '#3D3D3D'}
                           onClick={() => {this.props.handleClickDay(day)}}
                         >
                           {day.dayMonth} {day.anotherMonthDay}

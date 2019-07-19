@@ -4,6 +4,7 @@ export const Wrapper = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: arial,sans-serif;
   width: 100%;
   background-color: #fff;
   margin-bottom: 10px;
@@ -15,4 +16,5 @@ export const Day = styled.span`
   padding: 4px;
   text-align: center;
   box-sizing: border-box;
+  color: #515151;
 `;

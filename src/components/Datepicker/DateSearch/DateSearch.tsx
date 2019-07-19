@@ -11,7 +11,7 @@ export const DateSearch: React.FC<Props> = ({ handleClick, value, error }) => {
     return (
         <Wrapper onClick={() => handleClick()} error={error}>
             <Input type="text" value={value} readOnly />
-            {/* <Icon data-name="icon-calendar" width="25" height="25" fill={COLORS.LIGHT_GRAY} /> */}
+            <img src="../../../images/icon-calendar.svg" width="25" height="25" />
         </Wrapper>
     );
 };

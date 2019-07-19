@@ -36,6 +36,7 @@ export const CalendarHead = styled.div`
 `;
 
 export const CalendarTitle = styled.p`
+  font-family: gotham, arial, sans-serif;
   font-size: 18px;
 `;
 
@@ -49,12 +50,14 @@ export const MonthDayWrapper = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: arial, sans-serif;
   background-color: #fff;
   width: 14%;
   height: 30px;
   text-align: center;
   box-sizing: border-box;
   ${(props: Props) => props.selected && css`
+    background-color: #EA5A0B;
     border-radius: 50%;
   `}
 `;
