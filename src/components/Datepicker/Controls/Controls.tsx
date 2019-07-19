@@ -1,5 +1,7 @@
 import * as React from 'react';
 import { Wrapper, Button } from './styled';
+const iconUp = require('../../../images/icon-up.svg');
+const iconDown = require('../../../images/icon-down-arrow.svg');
 
 interface Props {
     handleClickPrevMonth: Function;
@@ -13,10 +15,10 @@ export const Controls: React.FC<Props> = ({
     return (
         <Wrapper>
             <Button onClick={() => handleClickPrevMonth()}>
-            <img src="../../../images/icon-up.svg" width="15" height="15" />
+            <img src={iconUp} width="15" height="15" />
             </Button>
             <Button onClick={() => handleClickNextMonth()}>
-            <img src="../../../images/icon-down-arrow.svg" width="15" height="15" />
+            <img src={iconDown} width="15" height="15" />
             </Button>
         </Wrapper>
     );
