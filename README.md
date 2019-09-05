@@ -20,8 +20,17 @@ const WrapperDatepicker = styled.div`
 `;
 
 const Wrapper = ()=> (
-    <WrapperDatepicker>
-        <Datepicker />
-    </WrapperDatepicker>
+    <React.Fragment>
+        <WrapperDatepicker>
+            <Datepicker />
+        </WrapperDatepicker>
+
+        <WrapperDatepicker>
+            <Datepicker 
+                setValue={(date: Date) =>console.log('Esta es la fecha seleccionada', date)}
+                placeholder="Seleccione una fecha"
+            />
+        </WrapperDatepicker>
+    </React.Fragment>
 )
 ```
